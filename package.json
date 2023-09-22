@@ -1,0 +1,25 @@
+{
+  "name": "selenium-example",
+  "version": "1.0.0",
+  "description": "Example test scripts using Selenium Webdriver",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Craig Davey",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.12.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.6",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^20.6.3",
+    "@types/selenium-webdriver": "^4.1.16",
+    "chai": "^4.3.8",
+    "dotenv": "^16.3.1",
+    "mocha": "^10.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
