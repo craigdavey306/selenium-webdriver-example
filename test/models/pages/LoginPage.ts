@@ -1,4 +1,4 @@
-import { By, WebDriver, until } from 'selenium-webdriver';
+import { By, WebDriver } from 'selenium-webdriver';
 import Page from './Page';
 
 export default class LoginPage extends Page {
