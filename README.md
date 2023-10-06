@@ -2,6 +2,8 @@
 
 Contains test scripts using Selenium, Mocha and Chai.
 
+Tests logging into https://www.saucedemo.com/, and selecting the backpack item from the inventory list.
+
 ## Getting Started
 
 Requires [**NodeJS**](https://nodejs.org/en) in order to install the project.
